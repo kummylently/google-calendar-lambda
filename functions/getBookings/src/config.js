@@ -1,12 +1,8 @@
 const baseUrl = 'https://www.googleapis.com/calendar/v3/calendars/'
  , calendarIds = [
    {
-     id: 'mfisog8jekeanmjkcrpv8lrmjo@group.calendar.google.com',
+     id: 'ntucenterprise.sg_32313338393839313338@resource.calendar.google.com',
      description: 'matungou1'
-   },
-   {
-     id: 'mfisog8jekeanmjkcrpv8lrmjo@group.calendar.google.com',
-     description: 'matungou2'
    }
  ]
  , resource = '/events'
